@@ -3,7 +3,7 @@
 **Data-Driven Professional | Data Analyst | Public Health Data Specialist**
 
 I work with data analytics and visualization tools to support public health and 
-immunization campaign monitoring — turning field data into clear, actionable insights.
+immunization campaign monitoring, turning field data into clear, actionable insights.
 
 ## 🔧 Tools & Skills
 - **Data Visualization:** Tableau, Excel (PivotTables, Dashboards, Advanced Formulas)
